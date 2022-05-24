@@ -1,0 +1,8 @@
+{
+"app_name":"App name",
+"welcome_desc":"Welcome to AnAinfo",
+"mail_hint":"Enter the Mail",
+"pass_hint":"Enter the Password",
+"login":"Login",
+"login_desc":"Didnt have an account /n click to register"
+}
