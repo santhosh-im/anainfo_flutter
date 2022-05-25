@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../utils/constant_color.dart';
 
 class StyleCard extends StatelessWidget {
   final Image image;
@@ -57,4 +56,5 @@ class StyleCard extends StatelessWidget {
               )),
         ));
   }
+
 }
